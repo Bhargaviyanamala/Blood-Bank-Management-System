@@ -38,3 +38,29 @@ bloodstock: An inventory table tracking the quantity of each blood group availab
 donation: A transaction table logging every donation event, linking a donor to a blood bank.
 
 transfusion: A transaction table logging every transfusion event, linking a patient, hospital, and blood bank.
+
+
+**Contributing and Updating**
+**1.****Clone the Repository**
+
+
+  git clone [https://github.com/yourusername/blood-bank-management-mysql.git](https://github.com/Bhargaviyanamala/Blood-Bank-Management-AC)
+  
+**2. Branch for Updates**
+
+git checkout -b feature/my-new-feature
+Edit/Create SQL Files
+
+Adhere to clear commenting for every change.
+
+Add any new tables, indexes, or queries as needed.
+
+**3.Test your code before pushing.**
+**
+4.Git Commit and Push**
+
+git add .
+git commit -m "Added new feature/fixed bug/updated docs"
+git push origin feature/my-new-feature
+Pull Requests
+Propose your changes with a detailed summary.
