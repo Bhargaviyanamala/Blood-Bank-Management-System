@@ -41,6 +41,7 @@ transfusion: A transaction table logging every transfusion event, linking a pati
 
 
 **Contributing and Updating**
+
 **1.****Clone the Repository**
 
 
@@ -49,6 +50,7 @@ transfusion: A transaction table logging every transfusion event, linking a pati
 **2. Branch for Updates**
 
 git checkout -b feature/my-new-feature
+
 Edit/Create SQL Files
 
 Adhere to clear commenting for every change.
@@ -56,6 +58,7 @@ Adhere to clear commenting for every change.
 Add any new tables, indexes, or queries as needed.
 
 **3.Test your code before pushing.**
+
 **
 4.Git Commit and Push**
 
